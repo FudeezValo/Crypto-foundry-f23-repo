@@ -4,7 +4,13 @@
 3. PROGRAMATIC VERIFICATION
 4. PUSH TO GITHUB
 
-#About
+# About
+
 This is a crowd-sourcing app!
 
+# Getting started
+
+## Requirements
+
+## Quickstart
 
