@@ -3,3 +3,13 @@
    1.PIT STOP! HOW to make running these scropit easier??
 3. PROGRAMATIC VERIFICATION
 4. PUSH TO GITHUB
+
+# About
+
+This is a crowd sourcing app!
+
+# Getting started
+
+## Requirements
+
+## Quickstart
