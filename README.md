@@ -1,10 +1,10 @@
-# Project Name
+# Crypto Foundry F23 Repo
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/FudeezValo/Crypto-foundry-f23-repo)](https://github.com/FudeezValo/Crypto-foundry-f23-repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FudeezValo/Crypto-foundry-f23-repo)](https://github.com/FudeezValo/Crypto-foundry-f23-repo/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/FudeezValo/Crypto-foundry-f23-repo)](https://github.com/FudeezValo/Crypto-foundry-f23-repo/graphs/contributors)
 
-Welcome to the repository for the Project Name.
+Welcome to the repository for the Crypto Foundry F23 Repo.
 
 ## Table of Contents
 
@@ -16,32 +16,31 @@ Welcome to the repository for the Project Name.
 
 ## Introduction
 
-Provide a brief introduction about your project here.
+This project is a part of the Foundry F23 series, focusing on Ethereum application development.
 
 ## Installation
 
-Provide the steps to install and set up your project.
-
+Clone the repository and build using Forge.
 
 bash
 
 Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/FudeezValo/Crypto-foundry-f23-repo.git
 
 Navigate to the directory
-cd your-repo-name
+cd Crypto-foundry-f23-repo
 
-Install dependencies
-npm install
+Build the project
+forge build
 
 
 ## Usage
 
-Provide instructions on how to use your project.
+This section is still under development.
 
 ## Contribution
 
-Provide instructions on how to contribute to your project.
+If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
 ## License
 
