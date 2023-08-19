@@ -20,23 +20,32 @@ This project is a part of the Foundry F23 series, focusing on Ethereum applicati
 
 ## Installation
 
-Clone the repository and build using Forge.
+(Clone the repository and build using Forge.)
 
-bash
+To set up the project, follow these steps:
 
-Clone the repository
-git clone https://github.com/FudeezValo/Crypto-foundry-f23-repo.git
+1. Install Rust:
+bash curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-Navigate to the directory
-cd Crypto-foundry-f23-repo
 
-Build the project
-forge build
+2. Install Foundry:
+bash curl -L https://foundry.paradigm.xyz | bash foundry
 
+
+3. Initialize the project:
+bash forge init
+
+
+4. Install dependencies:
+bash forge install OpenZeppelin/openzeppelin-contracts
+
+Add other dependencies as needed
+
+5. Set up remappings:
 
 ## Usage
 
-This section is still under development.
+This section is still under development. Please provide detailed instructions on how to use your project, including any command-line instructions, configuration steps, or examples.
 
 ## Contribution
 
